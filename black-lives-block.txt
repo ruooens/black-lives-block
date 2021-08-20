@@ -1,5 +1,5 @@
 ! Title: Black Lives Block
-! Expires: 7 days
+! Expires: 1 day
 ! Description: uBlock Origin filters list to block annoying BLM advertisements
 ! Homepage: https://github.com/ruooens/black-lives-block
 ! Licence: https://github.com/ruooens/black-lives-block/blob/main/LICENSE
