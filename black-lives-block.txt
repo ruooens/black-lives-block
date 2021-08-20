@@ -1,0 +1,10 @@
+! Title: Black Lives Block
+! Expires: 7 days
+! Description: uBlock Origin filters list to block annoying BLM advertisements
+! Homepage: https://github.com/ruooens/black-lives-block
+! Licence: https://github.com/ruooens/black-lives-block/blob/main/LICENSE
+!
+! GitHub issues: https://github.com/ruooens/black-lives-block/issues
+! GitHub pull: https://github.com/ruooens/black-lives-block/pulls
+emotion.sh##[href="https://support.eji.org/give/153413/#!/donation/checkout"]
+rxjs.dev##.notification-container.mat-toolbar-row
