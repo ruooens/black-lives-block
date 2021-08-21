@@ -21,3 +21,6 @@ plotly.com###campaign-zero-banner
 
 ! 2021-08-21 https://emberjs.com
 emberjs.com##.survey-reminder-wrapper
+
+! 2021-08-21 https://www.tensorflow.org
+www.tensorflow.org##.devsite-banner-announcement.devsite-banner
