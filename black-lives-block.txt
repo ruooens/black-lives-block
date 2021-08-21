@@ -18,3 +18,6 @@ golang.org##.Header-banner
 
 ! 2021-08-21 https://plotly.com
 plotly.com###campaign-zero-banner
+
+! 2021-08-21 https://emberjs.com
+emberjs.com##.survey-reminder-wrapper
