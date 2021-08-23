@@ -30,3 +30,6 @@ reactstrap.github.io##.text-center.align-items-center.justify-content-center.fle
 
 ! 2021-08-23 https://thisrobot.life
 thisrobot.life##h3
+
+! 2021-08-23 https://jamstack.wtf
+jamstack.wtf##.bSrKxm.sc-bdfBwQ
