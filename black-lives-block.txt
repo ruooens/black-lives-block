@@ -27,3 +27,6 @@ www.tensorflow.org##.devsite-banner-announcement.devsite-banner
 
 ! 2021-08-23 https://reactstrap.github.io
 reactstrap.github.io##.text-center.align-items-center.justify-content-center.flex-md-row.flex-column.d-flex.fixed-top.bg-dark
+
+! 2021-08-23 https://thisrobot.life
+thisrobot.life##h3
