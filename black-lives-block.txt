@@ -36,3 +36,6 @@ jamstack.wtf##.bSrKxm.sc-bdfBwQ
 
 ! 2021-08-23 https://reactnavigation.org
 reactnavigation.org##.wrapper_3AvG
+
+! 2021-08-23 https://styled-components.com
+styled-components.com##.bfOwuU.BlmBanner__Banner-rw0ve8-0
