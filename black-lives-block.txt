@@ -39,3 +39,6 @@ reactnavigation.org##.wrapper_3AvG
 
 ! 2021-08-23 https://styled-components.com
 styled-components.com##.bfOwuU.BlmBanner__Banner-rw0ve8-0
+
+! 2021-08-23 https://nesler.dev
+nesler.dev##.shadow-md.sm\:justify-between.justify-center.items-center.sm\:flex-row.flex-col.flex.rounded-md.text-white.dark\:bg-gray-800.bg-black.py-3.px-4.mb-6
