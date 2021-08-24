@@ -45,3 +45,6 @@ nesler.dev##.shadow-md.sm\:justify-between.justify-center.items-center.sm\:flex-
 
 ! 2021-08-23 https://git.doamatto.xyz
 git.doamatto.xyz##.blm-banner
+
+! 2021-08-24 https://180ukinnver.github.io
+180ukinnver.github.io##.css-f5odvb
