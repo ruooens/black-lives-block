@@ -51,3 +51,6 @@ git.doamatto.xyz##.blm-banner
 
 ! 2021-08-24 https://expressjs.com
 expressjs.com###blm-banner
+
+! 2021-08-25 https://pkg.go.dev
+pkg.go.dev##.go-Banner-inner
