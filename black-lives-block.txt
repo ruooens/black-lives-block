@@ -60,3 +60,6 @@ go.dev##.Banner-inner
 
 ! 2021-12-13 https://sass-lang.com
 sass-lang.com##div.sl-c-alert:has-text(Black Lives Matter)
+
+! 2021-12-16 https://xkcd.com
+||imgs.xkcd.com/news/blm.png$image
