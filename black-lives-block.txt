@@ -57,3 +57,6 @@ pkg.go.dev##.go-Banner-inner
 
 ! 2021-08-26 https://go.dev
 go.dev##.Banner-inner
+
+! 2021-12-13 https://sass-lang.com
+sass-lang.com##div.sl-c-alert:has-text(Black Lives Matter)
